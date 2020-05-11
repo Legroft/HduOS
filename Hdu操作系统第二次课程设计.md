@@ -1,20 +1,3 @@
----
-title: Hdu操作系统第二次课程设计
-author: Legroft
-top: false
-cover: false
-toc: true
-mathjax: false
-date: 2020-5-9 21:18:33
-tags:
-- Linux
-img:
-coverImg:
-summary: Hdu操作系统第二次课程设计，内核模块编译，读取两个文件中的矩阵并将乘积写入另一个文件
-categories:
-- Linux
----
-
 #### 课程设计要求
 
 以内核模块编程实现下属功能：打开本地两个文本文件a,b，各自保存了任意给定的一个3X3矩阵(自然数），例如： 
