@@ -1,20 +1,3 @@
----
-title: Hdu操作系统第一次课程设计
-author: Legroft
-top: false
-cover: false
-toc: true
-mathjax: false
-date: 2020-4-26 23:17:27
-tags:
-- Linux
-img:
-coverImg:
-summary: Hdu操作系统第一次课程设计，系统调用接收字符串并写入文件
-categories:
-- Linux
----
-
 #### 课程设计要求
 
 自定义系统调用，实现下列功能：
